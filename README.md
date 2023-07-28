@@ -13,6 +13,13 @@ e.g. https://github.com/suzuki-shunsuke/github-docs-27127/actions/runs/569069068
 
 So the activity type `starred` is wrong and the correct activity type is `started`.
 
+## How to reproduce the issue
+
+1. [Fork this repository](https://github.com/suzuki-shunsuke/github-docs-27127/fork)
+1. Enable GitHub Actions if it is disabled `https://github.com/<fork repository>/settings/actions`
+1. Star the repository
+1. Check if GitHub Actions workflows are run `https://github.com/<fork repository>/actions`
+
 ## LICENSE
 
 [MIT](LICENSE)
