@@ -1,6 +1,6 @@
 # github-docs-27127
 
-Reproduce the issue https://github.com/github/docs/pull/27127
+Reproduce the issue https://github.com/github/docs/issues/27129
 
 There are two GitHub Actions workflows.
 
