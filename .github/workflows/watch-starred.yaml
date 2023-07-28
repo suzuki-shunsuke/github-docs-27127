@@ -1,0 +1,11 @@
+---
+name: watch-starred
+on:
+  watch:
+    types:
+      - starred
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - run: ":"
