@@ -9,6 +9,10 @@ There are two GitHub Actions workflows.
 
 Please star this repository, then the workflow `watch-started.yaml` is triggered but the workflow `watch-starred.yaml` isn't triggered.
 
+e.g. https://github.com/suzuki-shunsuke/github-docs-27127/actions/runs/5690690689
+
+So the action type `starred` is wrong and the correct action type is `started`.
+
 ## LICENSE
 
 [MIT](LICENSE)
